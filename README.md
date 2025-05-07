@@ -1,19 +1,20 @@
 # 🌐 Personal Portfolio Website
 
-Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş kişisel bir portfolyo uygulamasıdır. 
+This project is a personal portfolio application developed using HTML, CSS, and JavaScript.
 
-## ✨ Özellikler
+## ✨ Features
 
-- 💼 **Hakkımda, Deneyim, Eğitim, Yetenekler** gibi bölümler
-- 🧠 Sekmeli içerik yapısı (Skills / Experience / Education)
-- 📱 Responsive (mobil uyumlu) tasarım
-- 🖱️ Etkileşimli geçiş efektleri (JavaScript ile)
+- 💼 Sections like **About Me, Experience, Education, and Skills**
+- 🧠 Tabbed content structure (Skills / Experience / Education)
+- 📱 Responsive (mobile-friendly) design
+- 🖱️ Interactive transition effects (with JavaScript)
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-| Teknoloji  | Açıklama |
-|------------|----------|
-| HTML5      | Sayfa yapısını oluşturmak için |
-| CSS3       | Görsel stil ve düzen için |
-| JavaScript | Sekme geçişleri ve dinamik içerik yönetimi için |
+| Technology | Description                                        |
+| ---------- | -------------------------------------------------- |
+| HTML5      | For building the page structure                    |
+| CSS3       | For visual styling and layout                      |
+| JavaScript | For tab transitions and dynamic content management |
+
 
